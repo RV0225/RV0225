@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cp
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me 9798.......
+- 📫 How to reach me 9798..........
 
 <!---
 RV0225/RV0225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
